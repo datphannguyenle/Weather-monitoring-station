@@ -55,7 +55,7 @@ cardElement4.addEventListener('click', function () {
     }
 });
 
-//===========
+// ===========
 let sidebar = document.querySelector(".sidebar");
 let sidebarBtn = document.querySelector(".sidebarBtn");
 sidebarBtn.onclick = function () {
